@@ -23,6 +23,9 @@
 
 ## 🛠️ Tech Stack
 
+<img width="300" alt="arquitectura" src="https://github.com/user-attachments/assets/abe29da4-cadb-4e49-90f6-53d0843eb979" />
+
+
 ### Frontend
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
