@@ -8,6 +8,11 @@
 
 <img width="150" alt="login" src="https://github.com/user-attachments/assets/ba7fcdf8-67ac-4aed-99db-cfcccd18df7b" />
 <img width="150" alt="dashboard" src="https://github.com/user-attachments/assets/1fb8a253-9a76-4750-ab2e-abfc92a8c017" />
+<img width="150" alt="nino" src="https://github.com/user-attachments/assets/a3aa7e30-eb0e-415a-96de-899aad9638ca" />
+<img width="150" alt="padre" src="https://github.com/user-attachments/assets/2b92e07a-cd51-4882-8527-eebacbd9acf4" />
+<img width="150" alt="isla" src="https://github.com/user-attachments/assets/f8cfdbb5-6ce3-469e-a347-69bc8f5081a6" />
+
+
 
 ---
 
