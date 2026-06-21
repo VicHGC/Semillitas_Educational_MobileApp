@@ -44,6 +44,7 @@
 
 ---
 
-<img width="600" height="400" alt="arquitectura" src="https://github.com/user-attachments/assets/abe29da4-cadb-4e49-90f6-53d0843eb979" />
-
 ## 🏗️ Arquitectura del Sistema
+
+
+<img width="600" height="400" alt="arquitectura" src="https://github.com/user-attachments/assets/abe29da4-cadb-4e49-90f6-53d0843eb979" />
