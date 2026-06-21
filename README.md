@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-<img width="300" alt="arquitectura" src="https://github.com/user-attachments/assets/abe29da4-cadb-4e49-90f6-53d0843eb979" />
+<img width="600" height="400" alt="arquitectura" src="https://github.com/user-attachments/assets/abe29da4-cadb-4e49-90f6-53d0843eb979" />
 
 
 ### Frontend
@@ -42,7 +42,7 @@
 ### Infraestructura & DevOps
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?logo=cloudflare&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)
 
 ---
