@@ -12,6 +12,10 @@
 <img width="150" alt="padre" src="https://github.com/user-attachments/assets/2b92e07a-cd51-4882-8527-eebacbd9acf4" />
 <img width="150" alt="isla" src="https://github.com/user-attachments/assets/f8cfdbb5-6ce3-469e-a347-69bc8f5081a6" />
 <img width="150" alt="juego" src="https://github.com/user-attachments/assets/f31832ea-66e5-497a-8b8e-8231c2cc1278" />
+<img width="150" alt="load" src="https://github.com/user-attachments/assets/541339a0-96a7-49c1-a6d1-68b5fcbb7dcb" />
+<img width="150" alt="skins" src="https://github.com/user-attachments/assets/0fe6cf0b-6f18-4254-9ed1-9ade13a69212" />
+<img width="150" alt="matematicas" src="https://github.com/user-attachments/assets/6d29ac09-e720-4134-889b-9307751e98e5" />
+
 
 
 
