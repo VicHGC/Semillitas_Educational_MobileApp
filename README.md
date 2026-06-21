@@ -81,7 +81,8 @@
 ### 1️⃣ Clonar el repositorio
 ```bash
 git clone https://github.com/VicHGC/Semillitas_Educational_MobileApp.git
-cd Semillitas_Educational_MobileApp 
+cd Semillitas_Educational_MobileApp
+```
 
 ### 2️⃣ Configurar el Backend
 ```bash
@@ -93,7 +94,20 @@ cp .env.example .env
 # Editar .env con tus credenciales
 
 npm start
+```
 
+### 3️⃣ Configurar el Frontend
+```bash
+cd Semillitas_Frontend
+npm install
+
+# Iniciar con Expo
+npx expo start
+```
+
+## 🚀 Descarga la aplicacion por QR, (Disponible solo para Android por el momento)
+
+<img width="600" height="400" alt="qr" src="https://github.com/user-attachments/assets/8822a6ba-a7c6-4c08-baff-6ebe725a12c1" />
 
 
 
