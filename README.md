@@ -11,6 +11,7 @@
 <img width="150" alt="nino" src="https://github.com/user-attachments/assets/a3aa7e30-eb0e-415a-96de-899aad9638ca" />
 <img width="150" alt="padre" src="https://github.com/user-attachments/assets/2b92e07a-cd51-4882-8527-eebacbd9acf4" />
 <img width="150" alt="isla" src="https://github.com/user-attachments/assets/f8cfdbb5-6ce3-469e-a347-69bc8f5081a6" />
+<img width="150" alt="juego" src="https://github.com/user-attachments/assets/f31832ea-66e5-497a-8b8e-8231c2cc1278" />
 
 
 
