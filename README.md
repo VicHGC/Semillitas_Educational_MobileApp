@@ -1,6 +1,6 @@
 # 🌱 Semillitas - Educational Mobile App for Kids
 
-**Cross-platform educational app for children ages 3 to 8** that combines interactive games, positive reinforcement through coins and avatars, and personalized learning progress tracking. Built with React Native + Expo for the frontend and Node.js + Express for the backend.
+**Educational app for children ages 3 to 8** that combines interactive games, positive reinforcement through coins and avatars, and personalized learning progress tracking. Built with React Native + Expo for the frontend and Node.js + Express for the backend.
 
 > *"Children are the little seeds of the future — nurture them with the right tools, and watch them grow strong."*
 
