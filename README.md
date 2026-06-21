@@ -1,23 +1,22 @@
-# 🌱 Semillitas - Aplicación Educativa Infantil
+# 🌱 Semillitas - Educational Mobile App for Kids
 
-**Plataforma móvil educativa para niños de 3 a 8 años** que combina juegos interactivos, refuerzo positivo con monedas y avatares, y seguimiento personalizado del aprendizaje. Desarrollada con React Native + Expo para el frontend y Node.js + Express para el backend.
+**Cross-platform educational app for children ages 3 to 8** that combines interactive games, positive reinforcement through coins and avatars, and personalized learning progress tracking. Built with React Native + Expo for the frontend and Node.js + Express for the backend.
+
+> *"Children are the little seeds of the future — nurture them with the right tools, and watch them grow strong."*
 
 ---
 
-## 📱 Capturas de Pantalla
+## 📱 Screenshots
 
-<img width="150" alt="login" src="https://github.com/user-attachments/assets/ba7fcdf8-67ac-4aed-99db-cfcccd18df7b" />
-<img width="150" alt="dashboard" src="https://github.com/user-attachments/assets/1fb8a253-9a76-4750-ab2e-abfc92a8c017" />
-<img width="150" alt="nino" src="https://github.com/user-attachments/assets/a3aa7e30-eb0e-415a-96de-899aad9638ca" />
-<img width="150" alt="padre" src="https://github.com/user-attachments/assets/2b92e07a-cd51-4882-8527-eebacbd9acf4" />
-<img width="150" alt="isla" src="https://github.com/user-attachments/assets/f8cfdbb5-6ce3-469e-a347-69bc8f5081a6" />
-<img width="150" alt="juego" src="https://github.com/user-attachments/assets/f31832ea-66e5-497a-8b8e-8231c2cc1278" />
-<img width="150" alt="load" src="https://github.com/user-attachments/assets/541339a0-96a7-49c1-a6d1-68b5fcbb7dcb" />
-<img width="150" alt="skins" src="https://github.com/user-attachments/assets/0fe6cf0b-6f18-4254-9ed1-9ade13a69212" />
-<img width="150" alt="matematicas" src="https://github.com/user-attachments/assets/6d29ac09-e720-4134-889b-9307751e98e5" />
-
-
-
+<img width="150" alt="Login screen with Google authentication" src="https://github.com/user-attachments/assets/ba7fcdf8-67ac-4aed-99db-cfcccd18df7b" />
+<img width="150" alt="Child dashboard with activities" src="https://github.com/user-attachments/assets/1fb8a253-9a76-4750-ab2e-abfc92a8c017" />
+<img width="150" alt="Child profile and progress view" src="https://github.com/user-attachments/assets/a3aa7e30-eb0e-415a-96de-899aad9638ca" />
+<img width="150" alt="Parent dashboard with metrics" src="https://github.com/user-attachments/assets/2b92e07a-cd51-4882-8527-eebacbd9acf4" />
+<img width="150" alt="Activity island selection screen" src="https://github.com/user-attachments/assets/f8cfdbb5-6ce3-469e-a347-69bc8f5081a6" />
+<img width="150" alt="Educational game interface" src="https://github.com/user-attachments/assets/f31832ea-66e5-497a-8b8e-8231c2cc1278" />
+<img width="150" alt="Loading screen with mascot" src="https://github.com/user-attachments/assets/541339a0-96a7-49c1-a6d1-68b5fcbb7dcb" />
+<img width="150" alt="Avatar shop and customization" src="https://github.com/user-attachments/assets/0fe6cf0b-6f18-4254-9ed1-9ade13a69212" />
+<img width="150" alt="Math activity gameplay" src="https://github.com/user-attachments/assets/6d29ac09-e720-4134-889b-9307751e98e5" />
 
 ---
 
@@ -36,7 +35,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?logo=passport&logoColor=white)
 
-### Infraestructura & DevOps
+### Infrastructure & DevOps
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?logo=cloudflare&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
@@ -44,70 +43,120 @@
 
 ---
 
-## 🏗️ Arquitectura del Sistema
+## 🎯 The Problem
 
+After the pandemic, Mexico faces a critical learning gap: **80% of 10-year-olds** struggle with literacy and math. Traditional teaching methods fail to capture the attention of children growing up in a digital world, leading to low motivation, poor retention, and widening educational inequality.
 
-<img width="600" height="400" alt="arquitectura" src="https://github.com/user-attachments/assets/abe29da4-cadb-4e49-90f6-53d0843eb979" />
+**Semillitas** ("little seeds") was created to change this. We believe children are like seeds — they need the right environment, care, and motivation to grow into strong, capable individuals. Our app turns learning into play, using:
 
-## ✨ Funcionalidades
-
-### 🧒 Para el Niño
-- **Juegos educativos:** Dibujo de letras, Quiz interactivo, Juego de voz
-- **Tienda de avatares:** Compra y equipa avatares con monedas ganadas
-- **Sistema de monedas:** Gana monedas al completar actividades
-
-### 👨‍👩‍👧 Para el Padre
-- **Dashboard de métricas:** Tiempo jugado, rachas, última actividad
-- **Letras difíciles:** Identifica qué letras necesita reforzar el niño
-- **Vinculación por QR:** Escanea un código QR para vincular padre e hijo
-- **Perfiles múltiples:** Administra varios hijos desde una cuenta
-
-### 🔐 Seguridad
-- **Autenticación con Google OAuth 2.0**
-- **JWT con refresh tokens** y rotación automática
-- **Interceptor de Axios** que renueva tokens expirados automáticamente
+- **AI-powered handwriting evaluation** for real-time feedback
+- **Gamification mechanics** (coins, avatars, rewards) to keep children engaged
+- **Parental monitoring** to track progress across multiple children
+- **Interactive games** that adapt to each child's learning pace
 
 ---
 
-## 🚀 Instalación y Ejecución Local
+## 🏗️ System Architecture
 
-### Prerrequisitos
+The backend runs on a **Debian 13 VM** on **Digital Ocean** with a **MySQL** database and an **Express.js** API managed by **PM2** behind an **Nginx** reverse proxy. Media assets (avatars, audio files) are served from **Cloudflare R2 Object Storage**. The React Native frontend communicates with the backend via HTTPS, with automatic JWT refresh handling through Axios interceptors.
+
+<img width="600" height="400" alt="System architecture diagram" src="https://github.com/user-attachments/assets/abe29da4-cadb-4e49-90f6-53d0843eb979" />
+
+---
+
+## ✨ Features
+
+### 🧒 For Children
+- **Educational games:** Letter drawing, interactive quiz, voice recognition
+- **Avatar shop:** Buy and equip avatars with earned coins
+- **Coin system:** Earn rewards by completing activities
+- **Visual progress:** Activity charts and streaks
+
+### 👨‍👩‍👧 For Parents
+- **Metrics dashboard:** Play time, streaks, last activity
+- **Difficult letters:** Identifies which letters need reinforcement
+- **QR linking:** Scan a QR code to link parent and child accounts
+- **Multi-child support:** Manage several children from one account
+
+### 🔐 Security
+- **Google OAuth 2.0 authentication**
+- **JWT with refresh tokens** and automatic rotation
+- **Axios interceptor** that renews expired tokens seamlessly
+
+---
+
+## 🚀 Local Installation
+
+### Prerequisites
 - Node.js >= 18
 - Expo CLI
 - MySQL
-- Cuenta de Google Cloud (para OAuth)
-- Cuenta de Cloudflare R2 (para assets)
+- Google Cloud account (for OAuth)
+- Cloudflare R2 account (for assets)
 
-### 1️⃣ Clonar el repositorio
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/VicHGC/Semillitas_Educational_MobileApp.git
 cd Semillitas_Educational_MobileApp
 ```
 
-### 2️⃣ Configurar el Backend
+### 2️⃣ Set up the Backend
 ```bash
 cd Semillitas_Backend
 npm install
 
-# Crear archivo .env y configurar variables
+# Create .env file and configure variables
 cp .env.example .env
-# Editar .env con tus credenciales
+# Edit .env with your credentials
 
 npm start
 ```
 
-### 3️⃣ Configurar el Frontend
+### 3️⃣ Set up the Frontend
 ```bash
 cd Semillitas_Frontend
 npm install
 
-# Iniciar con Expo
+# Start with Expo
 npx expo start
 ```
 
-## 🚀 Descarga la aplicacion por QR, (Disponible solo para Android por el momento)
+### Environment Variables (.env)
+```env
+PORT=3000
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=your_password
+DB_NAME=semillitas_db
+JWT_ACCESS_SECRET=your_secret
+JWT_REFRESH_SECRET=your_refresh_secret
+GOOGLE_CLIENT_ID=your_google_id
+GOOGLE_CLIENT_SECRET=your_google_secret
+R2_ACCESS_KEY_ID=your_r2_key
+R2_SECRET_ACCESS_KEY=your_r2_secret
+R2_BUCKET_NAME=semillitas-media
+R2_ENDPOINT=https://your-account.r2.cloudflarestorage.com
+```
 
-<img width="600" height="400" alt="qr" src="https://github.com/user-attachments/assets/8822a6ba-a7c6-4c08-baff-6ebe725a12c1" />
+---
 
+## 📱 Download the App via QR (Android only)
 
+<img width="600" height="400" alt="QR code to download the app" src="https://github.com/user-attachments/assets/8822a6ba-a7c6-4c08-baff-6ebe725a12c1" />
 
+---
+
+## 📬 Contact
+
+**Víctor Hugo Grajeda Cortés**  
+[LinkedIn](https://www.linkedin.com/in/victor-hugo-grajeda-cortes-1928b0279/)  
+victor.grajeda02@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Current version: **v1.0.0**
+
+[![GitHub](https://img.shields.io/badge/Repository-SemillitasApp-181717?logo=github)](https://github.com/SemillitasApp)
