@@ -6,11 +6,8 @@
 
 ## 📱 Capturas de Pantalla
 
-<!-- Agrega aquí imágenes de tu app. Ejemplo:
-![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Games](screenshots/games.png)
--->
+![Login]<img width="520" height="2400" alt="login" src="https://github.com/user-attachments/assets/ba7fcdf8-67ac-4aed-99db-cfcccd18df7b" />
+![Dashboard]<img width="520" height="2400" alt="dashboard" src="https://github.com/user-attachments/assets/1fb8a253-9a76-4750-ab2e-abfc92a8c017" />
 
 ---
 
@@ -38,4 +35,3 @@
 ---
 
 ## 🏗️ Arquitectura del Sistema
-<img width="1080" height="2400" alt="login" src="https://github.com/user-attachments/assets/ba7fcdf8-67ac-4aed-99db-cfcccd18df7b" />
