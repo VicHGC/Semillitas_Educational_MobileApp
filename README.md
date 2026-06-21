@@ -159,4 +159,4 @@ victor.grajeda02@gmail.com
 This project is licensed under the **MIT License**.  
 Current version: **v1.0.0**
 
-[![GitHub](https://img.shields.io/badge/Repository-SemillitasApp-181717?logo=github)](https://github.com/SemillitasApp)
+[![GitHub](https://img.shields.io/badge/Repository-SemillitasApp-181717?logo=github)](https://github.com/VicHGC/Semillitas_Educational_MobileApp)
