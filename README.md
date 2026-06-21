@@ -55,7 +55,6 @@
 - **Juegos educativos:** Dibujo de letras, Quiz interactivo, Juego de voz
 - **Tienda de avatares:** Compra y equipa avatares con monedas ganadas
 - **Sistema de monedas:** Gana monedas al completar actividades
-- **Progreso visual:** Gráficos de actividad y rachas
 
 ### 👨‍👩‍👧 Para el Padre
 - **Dashboard de métricas:** Tiempo jugado, rachas, última actividad
@@ -82,6 +81,19 @@
 ### 1️⃣ Clonar el repositorio
 ```bash
 git clone https://github.com/VicHGC/Semillitas_Educational_MobileApp.git
-cd Semillitas_Educational_MobileApp
+cd Semillitas_Educational_MobileApp 
+
+### 2️⃣ Configurar el Backend
+```bash
+cd Semillitas_Backend
+npm install
+
+# Crear archivo .env y configurar variables
+cp .env.example .env
+# Editar .env con tus credenciales
+
+npm start
+
+
 
 
